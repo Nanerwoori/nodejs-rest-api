@@ -1,0 +1,6 @@
+#### /orders
+
+# GET http://localhost:5001/orders
+# POST http://localhost:5001/orders
+# GET http://localhost:5001/orders/12
+DELETE http://localhost:5001/orders/12

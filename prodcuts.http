@@ -1,0 +1,12 @@
+#### /products
+GET http://localhost:5001/products
+
+# GET http://localhost:5001/products
+
+# POST http://localhost:5001/products
+
+#### /products/:prodcutId
+
+# GET http://localhost:5001/products/special
+# PATCH http://localhost:5001/products/special
+# DELETE http://localhost:5001/products/special
